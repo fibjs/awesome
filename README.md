@@ -1,4 +1,4 @@
-# awesome fibjs
+# Awesome Fibjs
 A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries, resources and shiny things.
 [<img src="https://avatars2.githubusercontent.com/u/1694747?v=3&s=200" align="right" width="70">](https://nodejs.org)
 
@@ -16,6 +16,14 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [json-format](https://github.com/luizstacio/json-format) - Parse JavaScript Object to a JSON String indented.
 - [viz.js](https://www.npmjs.com/package/viz.js) - This project is a Makefile for building Graphviz with Emscripten and a simple wrapper for using it in the browser.
 - [pegjs](https://github.com/pegjs/pegjs) - This is a simple parser generator for JavaScript that produces fast parsers with excellent error reporting. You can use it to process complex data or computer languages and build transformers, interpreters, compilers and other tools easily.
+- [cluster-server](https://github.com/fibjs-modules/cluster-server) - Start a multi-thread server to take advantage of multi-core systems.
+- [sync](https://github.com/fibjs-modules/sync) - Synchronize all kinds of async look like function to original non-blocking sync one, make the world peace and quiet!
+- [logstream](https://github.com/fibjs-modules/logstream) - wrap a file stream as a extremely high performance log stream.
+- [ci](https://github.com/fibjs-modules/ci) - Auto gen ci config files for fibjs project.
+- [fs-readdir-recursive](https://github.com/fibjs-modules/fs-readdir-recursive) - Recursively read a directory.
+- [mkdirp](https://github.com/fibjs-modules/mkdirp) - Like mkdir -p, but in fibjs!
+- [rmdirr](https://github.com/fibjs-modules/rmdirr) - remove all files and directories like rmdir -rf in fibjs.
+- [detect-port](https://github.com/fibjs-modules/detect-port) - JavaScript Implementation of Port Detector.
 
 ## License
 
