@@ -24,6 +24,8 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [mkdirp](https://github.com/fibjs-modules/mkdirp) - Like mkdir -p, but in fibjs!
 - [rmdirr](https://github.com/fibjs-modules/rmdirr) - remove all files and directories like rmdir -rf in fibjs.
 - [detect-port](https://github.com/fibjs-modules/detect-port) - JavaScript Implementation of Port Detector.
+- [uglify-js](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
+- [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript.
 
 ## License
 
