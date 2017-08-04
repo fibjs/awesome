@@ -26,6 +26,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [detect-port](https://github.com/fibjs-modules/detect-port) - JavaScript Implementation of Port Detector.
 - [uglify-js](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
 - [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript.
+- [chalk-animation](https://github.com/bokub/chalk-animation) - Colorful animations in terminal stdout
 
 ## License
 
