@@ -27,6 +27,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [uglify-js](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
 - [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript.
 - [chalk-animation](https://github.com/bokub/chalk-animation) - Colorful animations in terminal stdout
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library.
 
 ## License
 
