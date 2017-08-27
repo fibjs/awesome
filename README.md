@@ -28,6 +28,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript.
 - [chalk-animation](https://github.com/bokub/chalk-animation) - Colorful animations in terminal stdout
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library.
+- [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library
 
 ## License
