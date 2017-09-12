@@ -34,6 +34,9 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [jsrsasign](https://github.com/kjur/jsrsasign) - cryptography library
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards
 - [validatorjs](https://github.com/skaterdav85/validatorjs) - A data validation library
+- [ascii-table](https://github.com/sorensen/ascii-table) - Easy table output for node debugging, but you could probably do more with it, since its just a string.
+- [Juicer](https://github.com/PaulGuo/Juicer) - Juicer is an efficient, lightweight front end (Javascript) templating engine
+- [source-map](https://github.com/mozilla/source-map) - This is a library to generate and consume the source map format described here.
 
 ## License
 
