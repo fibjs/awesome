@@ -30,6 +30,10 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library.
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 - [synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library
+- [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+- [jsrsasign](https://github.com/kjur/jsrsasign) - cryptography library
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards
+- [validatorjs](https://github.com/skaterdav85/validatorjs) - A data validation library
 
 ## License
 
