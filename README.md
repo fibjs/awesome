@@ -6,7 +6,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 
 - [fib-session](https://github.com/fibjs/fib-session) - Session middleware for fibjs.
 - [fib-pool](https://github.com/fibjs/fib-pool) - Generic resource pooling for fibjs.
-- [fib-orm](https://github.com/fibjs/fib-orm) - ject Relational Mapping for fibjs.
+- [fib-orm](https://github.com/fibjs/fib-orm) - Object Relational Mapping for fibjs.
 - [fib-kv](https://github.com/fibjs/fib-kv) - general key-value store on sql/level/mongo/redis.
 - [fib-rpc](https://github.com/fibjs/fib-rpc) - Remote Procedure Calling for fibjs.
 - [fib-qr](https://github.com/fibjs/fib-qr) - QR Code Generator for fibjs.
