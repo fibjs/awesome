@@ -14,7 +14,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [highlight.js](https://github.com/isagalaev/highlight.js) - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.
 - [marked](https://github.com/chjj/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
 - [json-format](https://github.com/luizstacio/json-format) - Parse JavaScript Object to a JSON String indented.
-- [viz.js](https://www.npmjs.com/package/viz.js) - This project is a Makefile for building Graphviz with Emscripten and a simple wrapper for using it in the browser.
+- [viz.js](https://github.com/mdaines/viz.js) - This project is a Makefile for building Graphviz with Emscripten and a simple wrapper for using it in the browser.
 - [pegjs](https://github.com/pegjs/pegjs) - This is a simple parser generator for JavaScript that produces fast parsers with excellent error reporting. You can use it to process complex data or computer languages and build transformers, interpreters, compilers and other tools easily.
 - [cluster-server](https://github.com/fibjs-modules/cluster-server) - Start a multi-thread server to take advantage of multi-core systems.
 - [sync](https://github.com/fibjs-modules/sync) - Synchronize all kinds of async look like function to original non-blocking sync one, make the world peace and quiet!
