@@ -37,6 +37,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [mkdirp](https://github.com/fibjs-modules/mkdirp) - Like mkdir -p, but in fibjs!
 - [rmdirr](https://github.com/fibjs-modules/rmdirr) - remove all files and directories like rmdir -rf in fibjs.
 - [detect-port](https://github.com/fibjs-modules/detect-port) - JavaScript Implementation of Port Detector.
+- [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin-related functions implemented in pure JavaScript.
 
 ## License
 
