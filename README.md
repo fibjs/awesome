@@ -38,6 +38,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [rmdirr](https://github.com/fibjs-modules/rmdirr) - remove all files and directories like rmdir -rf in fibjs.
 - [detect-port](https://github.com/fibjs-modules/detect-port) - JavaScript Implementation of Port Detector.
 - [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin-related functions implemented in pure JavaScript.
+- [Rakuten](https://github.com/rakuten-nlp/rakutenma) - morphological analyzer (word segmentor + PoS Tagger) for Chinese and Japanese written purely in JavaScript.
 
 ## License
 
