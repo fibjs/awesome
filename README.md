@@ -14,6 +14,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [Juicer](https://github.com/PaulGuo/Juicer) - Juicer is an efficient, lightweight front end (Javascript) templating engine
 - [highlight.js](https://github.com/isagalaev/highlight.js) - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.
 - [marked](https://github.com/chjj/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+- [node-cron](https://github.com/merencia/node-cron) - A simple cron-like job scheduler.
 - [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
 - [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library.
 - [sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
