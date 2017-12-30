@@ -27,6 +27,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [source-map](https://github.com/mozilla/source-map) - This is a library to generate and consume the source map format described here.
 - [json-format](https://github.com/luizstacio/json-format) - Parse JavaScript Object to a JSON String indented.
 - [viz.js](https://github.com/mdaines/viz.js) - This project is a Makefile for building Graphviz with Emscripten and a simple wrapper for using it in the browser.
+- [nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [pegjs](https://github.com/pegjs/pegjs) - This is a simple parser generator for JavaScript that produces fast parsers with excellent error reporting. You can use it to process complex data or computer languages and build transformers, interpreters, compilers and other tools easily.
 - [uglify-js](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
 - [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript.
