@@ -11,6 +11,7 @@ A collection of awesome server-side [fibjs](https://github.com/fibjs) libraries,
 - [fib-kv](https://github.com/fibjs/fib-kv) - general key-value store on sql/level/mongo/redis.
 - [fib-rpc](https://github.com/fibjs/fib-rpc) - Remote Procedure Calling for fibjs.
 - [fib-qr](https://github.com/fibjs/fib-qr) - QR Code Generator for fibjs.
+- [fib-pug](https://github.com/fibjs/fib-pug) - One indentation-sensitive html pre-processor.
 - [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates.
 - [Juicer](https://github.com/PaulGuo/Juicer) - Juicer is an efficient, lightweight front end (Javascript) templating engine
 - [highlight.js](https://github.com/isagalaev/highlight.js) - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.
